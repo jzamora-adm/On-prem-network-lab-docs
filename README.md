@@ -1,4 +1,4 @@
-# Network & On-Premises Lab Portfolio
+# On-Premises Network Lab Portfolio
 
 Welcome to my personal lab documentation repository. This project showcases hands-on experience with networking fundamentals, Windows Server administration, and the beginning stages of cloud adoption via Microsoft Azure.
 
